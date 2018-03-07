@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\muhammad.sohail\.android\build-cache\6ebcee375dfc1c3cad7227488f6060a828c989b0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\MuhammadSohail\MemeifyFinal\app\build\intermediates\pre-dexed\debug\classes_7f28d3c2ceb994e72a847cb467d40e33a671eba4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\muhammad.sohail\.android\build-cache\a46555a08b74a32711a4813a0984b9961ec65dae\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="E:\MuhammadSohail\MemeifyFinal\app\build\intermediates\pre-dexed\debug\classes_c00372292407492090856ba6168ac80f17768528.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\muhammad.sohail\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="E:\MuhammadSohail\MemeifyFinal\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_e55773b84b16e51436b77904f2741b19fe87e54d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\muhammad.sohail\.android\build-cache\9e1ac6a770901774ea2283fbc0edc84712f43e39\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="E:\MuhammadSohail\MemeifyFinal\app\build\intermediates\pre-dexed\debug\classes_3b228bda8977dfd9d2b58bd59bb20baaa3d2365b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\muhammad.sohail\.android\build-cache\1c726b5755c3cefcb4f242cf071e74ffb1c05282\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="E:\MuhammadSohail\MemeifyFinal\app\build\intermediates\pre-dexed\debug\classes_fd8a1e9da08e2fdb208b52a7cb387692cb87a8e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\muhammad.sohail\.android\build-cache\39950fae834cf019f4d161f63395a6d58e1724ee\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="E:\MuhammadSohail\MemeifyFinal\app\build\intermediates\pre-dexed\debug\classes_6350a12dd03137d901415a0ed1f7a90e29e32205.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\muhammad.sohail\.android\build-cache\e75ca7fb40559c4e50262950ecc28655f2f43e8d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="E:\MuhammadSohail\MemeifyFinal\app\build\intermediates\pre-dexed\debug\classes_b0687fbdbc2c11a435ecddb558b48a96af179004.jar" />
+    </item>
+
+</items>
